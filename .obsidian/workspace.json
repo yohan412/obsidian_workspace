@@ -4,149 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fddba74bdafa57c6",
+        "id": "0eff316d22199eef",
         "type": "tabs",
         "children": [
           {
-            "id": "c32c7f9964b51bf2",
+            "id": "6db171ffd7ca5b3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "수업내용정리/트랜스포머 - Attention is All You Need(논문).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "트랜스포머 - Attention is All You Need(논문)"
-            }
-          },
-          {
-            "id": "d79c25e3d502a123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "수업내용정리/LSTM과 GRU PPT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LSTM과 GRU PPT"
-            }
-          },
-          {
-            "id": "ceee53a6e5c06414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "수업내용정리/경사 하강법 최적화 알고리즘.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "경사 하강법 최적화 알고리즘"
-            }
-          },
-          {
-            "id": "9e1d7287b8e133e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "수업내용정리/LLM Agent ppt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM Agent ppt"
-            }
-          },
-          {
-            "id": "d24fee7ebd994405",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
-            }
-          },
-          {
-            "id": "d93f33f9cbc306aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "이력서 팁.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이력서 팁"
-            }
-          },
-          {
-            "id": "9e7529a31a16cec9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지"
-            }
-          },
-          {
-            "id": "4435145c5fcf5a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "면접대비(이론)/네트워크.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "네트워크"
-            }
-          },
-          {
-            "id": "b73dabd9a1dda974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "면접대비(이론)/무제.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "무제"
-            }
-          },
-          {
-            "id": "1951f65cfe83016e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "면접대비(이론)/네트워크.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "네트워크"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "백링크"
             }
           },
           {
@@ -243,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "나가는 링크"
             }
           },
           {
@@ -272,15 +143,25 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "개요"
+            }
+          },
+          {
+            "id": "907a9569d96fba37",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,14 +171,29 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1951f65cfe83016e",
+  "active": "6db171ffd7ca5b3a",
   "lastOpenFiles": [
-    "면접대비(이론)/무제 1.md",
-    "면접대비(이론)/무제.md",
     "면접대비(이론)/네트워크.md",
+    "면접대비(이론)/운영체제.md",
+    "면접대비(이론)/무제.md",
+    "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
+    "면접대비(이론)/Spring.md",
+    "면접대비(이론)/데이터베이스.md",
+    "StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지.md",
+    "수업내용정리/LLM Agent ppt.md",
+    "수업내용정리/경사 하강법 최적화 알고리즘.md",
+    "수업내용정리/LSTM과 GRU PPT.md",
+    "수업내용정리/트랜스포머 - Attention is All You Need(논문).md",
+    "면접대비(이론)/Python.md",
+    "면접대비(이론)/nodeJS.md",
+    "면접대비(이론)/Java.md",
+    "면접대비(이론)/JPA.md",
+    "면접대비(이론)/암호학 보안.md",
+    "면접대비(이론)/자료구조 알고리즘.md",
     "면접대비(이론)/무제.base",
     "면접대비(깃)/README.md",
     "면접대비(깃)",
@@ -313,25 +209,11 @@
     "수업내용정리/Pasted image 20250618170615.png",
     "수업내용정리/121381obtV.gif",
     "수업내용정리/56201contours_evaluation_optimizers.gif",
-    "StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지.md",
     "Templates/줄바꿈.md",
     "무제 1.base",
     "무제 2.base",
     "면접대비(이론)",
     "이력서 팁.md",
-    "영상 및 이미지에서의 텍스트, 수식 개체 인식.md",
-    "무제 1.md",
-    "수업내용정리/실습예제코드.md",
-    "수업내용정리/일반화 (Generalization).md",
-    "수업내용정리/객체지향 모델링 ppt.md",
-    "수업내용정리/생성형 ai 개발 아키테처.md",
-    "수업내용정리/경사하강법 (Gradient Descent Method).md",
-    "수업내용정리/확률적 경사 하강법 ppt.md",
-    "수업내용정리/확률적 경사 하강법.md",
-    "수업내용정리/그리드 서치와 랜덤서치 ppt.md",
-    "수업내용정리/경사 하강법 최적화 알고리즘.md",
-    "수업내용정리/MSA(Micro Service Architechure).md",
-    "수업내용정리/LSTM과 GRU PPT.md",
     "수업내용정리/Docker 실습.pdf",
     "수업내용정리/Docker.pdf",
     "수업내용정리/Pasted image 20250918111755.png",
