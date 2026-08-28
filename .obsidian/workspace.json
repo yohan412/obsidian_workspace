@@ -11,10 +11,14 @@
             "id": "6db171ffd7ca5b3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -177,11 +181,11 @@
   },
   "active": "6db171ffd7ca5b3a",
   "lastOpenFiles": [
+    "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
+    "면접대비(이론)/Spring.md",
     "면접대비(이론)/네트워크.md",
     "면접대비(이론)/운영체제.md",
     "면접대비(이론)/무제.md",
-    "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
-    "면접대비(이론)/Spring.md",
     "면접대비(이론)/데이터베이스.md",
     "StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지.md",
     "수업내용정리/LLM Agent ppt.md",
