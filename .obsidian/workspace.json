@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "122bf0197968c645",
+        "id": "f31be12784380d52",
         "type": "tabs",
         "children": [
           {
-            "id": "e384b669df39f818",
+            "id": "1d25b873653fb86f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "정보처리기사/소프트웨어 설계.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "소프트웨어 설계"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "45cbc0deb56f1e53",
@@ -142,6 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "면접대비(이론)/운영체제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,20 +179,25 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "e384b669df39f818",
+  "active": "1d25b873653fb86f",
   "lastOpenFiles": [
+    "면접대비(이론)/Spring.md",
+    "정보처리기사/소프트웨어 설계.md",
+    "정보처리기사",
+    "면접대비(이론)/암호학 보안.md",
+    "면접대비(이론)/운영체제.md",
+    "면접대비(이론)/데이터베이스.md",
     "면접대비(이론)/네트워크.md",
+    "논문/StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지.md",
+    "논문",
     "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
     "면접대비_카테고리.base",
     "새 텍스트 문서.txt",
-    "면접대비(이론)/Spring.md",
-    "면접대비(이론)/운영체제.md",
     "면접대비(이론)/무제.md",
-    "면접대비(이론)/데이터베이스.md",
-    "StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지.md",
     "수업내용정리/LLM Agent ppt.md",
     "수업내용정리/경사 하강법 최적화 알고리즘.md",
     "수업내용정리/LSTM과 GRU PPT.md",
@@ -198,7 +206,6 @@
     "면접대비(이론)/nodeJS.md",
     "면접대비(이론)/Java.md",
     "면접대비(이론)/JPA.md",
-    "면접대비(이론)/암호학 보안.md",
     "면접대비(이론)/자료구조 알고리즘.md",
     "면접대비(깃)/README.md",
     "면접대비(깃)",
@@ -219,7 +226,6 @@
     "무제 2.base",
     "면접대비(이론)",
     "수업내용정리/Docker 실습.pdf",
-    "수업내용정리/Docker.pdf",
     "수업내용정리/Pasted image 20250918111755.png",
     "수업내용정리/Pasted image 20250918111338.png",
     "수업내용정리/Pasted image 20250918111251.png",
