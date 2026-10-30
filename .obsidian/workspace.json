@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정보처리기사/소프트웨어 설계.md",
+                "file": "면접대비(이론)/네트워크.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소프트웨어 설계"
+              "title": "네트워크"
+            }
+          },
+          {
+            "id": "8e931f138a82237e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.14.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +196,11 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "1d25b873653fb86f",
+  "active": "8e931f138a82237e",
   "lastOpenFiles": [
-    "면접대비(이론)/Spring.md",
+    "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
     "정보처리기사/소프트웨어 설계.md",
+    "면접대비(이론)/Spring.md",
     "정보처리기사",
     "면접대비(이론)/암호학 보안.md",
     "면접대비(이론)/운영체제.md",
@@ -194,7 +208,6 @@
     "면접대비(이론)/네트워크.md",
     "논문/StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지.md",
     "논문",
-    "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
     "면접대비_카테고리.base",
     "새 텍스트 문서.txt",
     "면접대비(이론)/무제.md",
