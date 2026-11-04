@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "네트워크"
             }
-          },
-          {
-            "id": "8e931f138a82237e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.14.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "8e931f138a82237e",
+  "active": "1d25b873653fb86f",
   "lastOpenFiles": [
     "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
     "정보처리기사/소프트웨어 설계.md",
