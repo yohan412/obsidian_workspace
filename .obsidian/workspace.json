@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
+                "file": "면접대비(이론)/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기타 이론 및 개인 인성, 역량"
-            }
-          },
-          {
-            "id": "a8c06391e87c538d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.0"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.15.0"
+              "title": "Java"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "45cbc0deb56f1e53",
@@ -195,16 +183,17 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "a8c06391e87c538d",
+  "active": "1d25b873653fb86f",
   "lastOpenFiles": [
+    "면접대비(이론)/Python.md",
+    "면접대비(이론)/운영체제.md",
     "면접대비(이론)/데이터베이스.md",
-    "면접대비(이론)/네트워크.md",
     "면접대비(이론)/기타 이론 및 개인 인성, 역량.md",
+    "면접대비(이론)/네트워크.md",
     "정보처리기사/소프트웨어 설계.md",
     "면접대비(이론)/Spring.md",
     "정보처리기사",
     "면접대비(이론)/암호학 보안.md",
-    "면접대비(이론)/운영체제.md",
     "논문/StateSlot 선택적 쓰기와 거리-게이트 초기화로 문맥 일관성 유지.md",
     "논문",
     "면접대비_카테고리.base",
@@ -214,7 +203,6 @@
     "수업내용정리/경사 하강법 최적화 알고리즘.md",
     "수업내용정리/LSTM과 GRU PPT.md",
     "수업내용정리/트랜스포머 - Attention is All You Need(논문).md",
-    "면접대비(이론)/Python.md",
     "면접대비(이론)/nodeJS.md",
     "면접대비(이론)/Java.md",
     "면접대비(이론)/JPA.md",
